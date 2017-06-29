@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/ALU.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/ALU_1BIT.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Alucontrol.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Components.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Condition.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Control_unit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/DATAMEMORY.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/GenericReg.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/InstructionMemory.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/LastBit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MUL.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/PCRegister.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Reg2.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Reg32_0.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/RegisterFile.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Sign_Extend.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Translation.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/decoder5x32.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/mux-4to1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/mux2x1_32.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/mux2x1_5.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/mux5x32.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/mux_2to1.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

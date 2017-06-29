@@ -1,0 +1,3 @@
+vhdtdtfi -lib work Control_unit.vhd -prj Milestone2 -o Control_unit.spl -module Control_unit -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Control_unit.spl {E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Control_unit.sym} 
+vhdtdtfi -prj Milestone2 -o "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/Control_unit.vhi" -module Control_unit -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Control_unit.vhd 

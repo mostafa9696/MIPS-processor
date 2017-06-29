@@ -1,0 +1,6 @@
+vhdl work "mux_2to1.vhd"
+vhdl work "mux-4to1.vhd"
+vhdl work "Components.vhd"
+vhdl work "LastBit.vhd"
+vhdl work "ALU_1BIT.vhd"
+vhdl work "ALU.vhd"

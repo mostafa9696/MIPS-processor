@@ -1,0 +1,29 @@
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+vhdtdtfi -lib work mux_2to1.vhd -lib work mux-4to1.vhd -lib work Components.vhd -lib work mux5x32.vhd -lib work GenericReg.vhd -lib work decoder5x32.vhd -lib work ALU_1BIT.vhd -lib work Translation.vhd -lib work RegisterFile.vhd -lib work PCRegister.vhd -lib work MUL.vhd -lib work InstructionMemory.vhd -lib work Condition.vhd -lib work ALU.vhd -lib work MainModule.vhd -prj Milestone2 -o MainModule.spl -module MainModule -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+vhdtdtfi -lib work mux_2to1.vhd -lib work mux-4to1.vhd -lib work Components.vhd -lib work mux5x32.vhd -lib work GenericReg.vhd -lib work decoder5x32.vhd -lib work ALU_1BIT.vhd -lib work Translation.vhd -lib work RegisterFile.vhd -lib work PCRegister.vhd -lib work MUL.vhd -lib work InstructionMemory.vhd -lib work Condition.vhd -lib work ALU.vhd -lib work MainModule.vhd -prj Milestone2 -o MainModule.spl -module MainModule -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "MainModule.ngc" MainModule.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MainModule_map.ncd MainModule.ngd MainModule.pcf 
+par -w -intstyle ise -ol high -mt off MainModule_map.ncd MainModule.ncd MainModule.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MainModule.twx MainModule.ncd -o MainModule.twr MainModule.pcf 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone2/Milestone2/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.syr" 
+xst -intstyle ise -ifn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.xst" -ofn "E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.syr" 

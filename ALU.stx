@@ -1,0 +1,106 @@
+Release 14.5 - xst P.58f (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> Parameter xsthdpdir set to E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> Reading design: ALU.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\mux_2to1.vhd" into library work
+Parsing entity <mux2x1>.
+Parsing architecture <Behavioral> of entity <mux2x1>.
+Parsing VHDL file "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\mux-4to1.vhd" into library work
+Parsing entity <mux4x1>.
+Parsing architecture <Behavioral> of entity <mux4x1>.
+Parsing VHDL file "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\Components.vhd" into library work
+Parsing package <Components>.
+Parsing package body <Components>.
+Parsing VHDL file "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\LastBit.vhd" into library work
+Parsing entity <LastBit>.
+Parsing architecture <Behavioral> of entity <lastbit>.
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\LastBit.vhd" Line 38: Actual for formal port selc is neither a static name nor a globally static expression
+Parsing VHDL file "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU_1BIT.vhd" into library work
+Parsing entity <ALU_1BIT>.
+Parsing architecture <Behavioral> of entity <alu_1bit>.
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU_1BIT.vhd" Line 36: Actual for formal port selc is neither a static name nor a globally static expression
+Parsing VHDL file "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" into library work
+Parsing entity <ALU>.
+Parsing architecture <Behavioral> of entity <alu>.
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 21: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 22: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 23: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 24: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 25: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 26: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 27: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 28: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 29: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 30: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 31: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 32: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 33: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 34: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 35: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 36: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 37: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 38: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 39: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 40: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 41: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 42: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 43: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 44: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 45: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 46: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 47: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 48: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 49: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 50: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 51: Actual for formal port myselect is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 52: Actual for formal port myselect is neither a static name nor a globally static expression
+
+
+Total REAL time to Xst completion: 9.00 secs
+Total CPU time to Xst completion: 8.44 secs
+ 
+--> 
+
+Total memory usage is 206464 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   34 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,13 @@
+[Inputs]
+=I[5:0]=
+[Outputs]
+Regdst
+Alusrc
+Memtoreg
+Regwrite
+Memread
+Memwrite
+Branch
+Aluop1
+Aluop0
+[BiDir]

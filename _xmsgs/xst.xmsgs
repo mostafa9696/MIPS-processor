@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\LastBit.vhd" Line 37: Actual for formal port <arg fmt="%s" index="1">selc</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU_1BIT.vhd" Line 36: Actual for formal port <arg fmt="%s" index="1">selc</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 84: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 85: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 86: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 87: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 88: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 89: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 90: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 91: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 92: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 93: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 94: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 96: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 97: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 98: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 99: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 100: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 101: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 102: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 103: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 104: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 105: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 107: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 108: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 109: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 110: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 111: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 112: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 113: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 114: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 115: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 116: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\RegisterFile.vhd" Line 117: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 21: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 22: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 23: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 24: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 25: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 26: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 27: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 28: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 29: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 30: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 31: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 32: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 33: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 34: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 35: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 36: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 37: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 38: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 39: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 40: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 41: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 42: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 43: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 44: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 45: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 46: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 47: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 48: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 49: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 50: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 51: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\ALU.vhd" Line 52: Actual for formal port <arg fmt="%s" index="1">myselect</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd" Line 80: Actual for formal port <arg fmt="%s" index="1">clr</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd" Line 82: Actual for formal port <arg fmt="%s" index="1">loadit</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd" Line 90: Actual for formal port <arg fmt="%s" index="1">loadit</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd" Line 93: Actual for formal port <arg fmt="%s" index="1">data2</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd" Line 94: Actual for formal port <arg fmt="%s" index="1">selc</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\InstructionMemory.vhd" Line 32: <arg fmt="%s" index="1">loadit</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\InstructionMemory.vhd" Line 27: Net &lt;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY[33][31]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\DATAMEMORY.vhd" Line 29: <arg fmt="%s" index="1">loadit</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">cflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">zflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">oflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">89</arg>: Output port &lt;<arg fmt="%s" index="3">cflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M10</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">89</arg>: Output port &lt;<arg fmt="%s" index="3">oflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M10</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">93</arg>: Output port &lt;<arg fmt="%s" index="3">cflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M13</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">93</arg>: Output port &lt;<arg fmt="%s" index="3">zflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M13</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\3rd year\semester 2\Archi\Labs\Milestone3\Milestone3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">93</arg>: Output port &lt;<arg fmt="%s" index="3">oflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M13</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">aluop&lt;3:3&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ADDRESS&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;33&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;34&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;35&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;36&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;37&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;38&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;39&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;40&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;41&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;42&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;43&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;44&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;45&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;46&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;47&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;48&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;49&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;50&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;51&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;52&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;53&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;54&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;55&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;56&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;57&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;58&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;59&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;60&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;61&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;62&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;63&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">ROM_PROCESS.MEMORY&lt;0&gt;&lt;5&gt;</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">O&lt;31&gt;</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">F&lt;5:4&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ADDRESS&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1126_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">MEM_READ_MEM_READ_DLATCH_1127_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1128_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1130_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1132_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1134_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1136_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1138_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1140_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1142_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1144_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1146_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1148_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1150_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1152_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1154_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1156_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1158_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1160_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1162_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1164_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1166_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1168_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1170_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1172_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1174_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1176_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1178_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1180_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1182_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1184_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1186_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1188_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">DATA_30</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">INSTRMEMORY</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">DATA_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">INSTRMEMORY</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;DATA_7&gt; &lt;DATA_8&gt; &lt;DATA_9&gt; &lt;DATA_10&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="3001" delta="new" >This design contains one or more registers or latches with an active
+asynchronous set and asynchronous reset. While this circuit can be built,
+it creates a sub-optimal implementation in terms of area, power and
+performance. For a more optimal implementation Xilinx highly recommends
+one of the following:
+
+       1) Remove either the set or reset from all registers and latches if
+          not needed for required functionality
+       2) Modify the code in order to produce a synchronous set
+          and/or reset (both is preferred)
+       3) Use the -async_to_sync option to transform the asynchronous
+          set/reset to synchronous operation
+          (timing simulation highly recommended when using this option)
+</msg>
+
+<msg type="warning" file="Xst" num="2042" delta="new" >Unit <arg fmt="%s" index="1">MainModule</arg>: <arg fmt="%d" index="2">96</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
+
+<msg type="warning" file="Xst" num="2042" delta="new" >Unit <arg fmt="%s" index="1">decoder5x32</arg>: <arg fmt="%d" index="2">32</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
+
+<msg type="warning" file="Xst" num="2041" delta="new" >Unit <arg fmt="%s" index="1">LastBit</arg>: <arg fmt="%d" index="2">1</arg> internal tristate is replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
+
+<msg type="warning" file="Xst" num="2041" delta="new" >Unit <arg fmt="%s" index="1">ALU_1BIT</arg>: <arg fmt="%d" index="2">1</arg> internal tristate is replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">M1/temp_1</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">MainModule</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="new" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M1/temp_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">MainModule</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="new" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

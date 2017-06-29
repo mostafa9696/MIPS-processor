@@ -1,0 +1,5 @@
+vhdl isim_temp "mux_2to1.vhd"
+vhdl isim_temp "mux-4to1.vhd"
+vhdl isim_temp "Components.vhd"
+vhdl isim_temp "ALU_1BIT.vhd"
+vhdl isim_temp "ALU.vhd"

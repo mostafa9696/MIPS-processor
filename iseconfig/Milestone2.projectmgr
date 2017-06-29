@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Milestone2" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A0 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A1 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A2 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A31 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU.vhd/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A2 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A31 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A0 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A1 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A31 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/A1 - ALU - Behavioral/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/Components</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M6 - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A1 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A2 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A31 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A31 - LastBit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd/M7 - ALU - Behavioral/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A0 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A1 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A2 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A31 - LastBit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M10 - ALU - Behavioral/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M13 - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A0 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A1 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A2 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A31 - LastBit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M2 - ALU - Behavioral/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|MainModule.vhd/M6 - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/RegisterFile - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|RegisterFile.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>MainModule - Behavioral (E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >11</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000019f000000020000000000000000000000000200000064ffffffff0000008100000003000000020000019f0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>MainModule - Behavioral (E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/MainModule.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Components.vhd</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001b10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Components.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e7000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_PACKAGE_BODY" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_PACKAGE_DECL" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU - Behavioral E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|MainModule.vhd</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A0 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A1 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A2 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A31 - LastBit - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_TEST.vhd/uut - ALU - Behavioral/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A1 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A2 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A31 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - ALU - Behavioral/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A0 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A1 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A10 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A11 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A12 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A13 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A14 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A15 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A16 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A17 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A18 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A19 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A2 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A20 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A21 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A22 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A23 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A24 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A25 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A26 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A27 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A28 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A29 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A3 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A30 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A31 - LastBit - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A4 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A5 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A6 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A7 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A8 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_TEST.vhd/uut - ALU - Behavioral/A9 - ALU_1BIT - Behavioral</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|Register_Test.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|Register_Test.vhd</ClosedNode>
+         <ClosedNode>/RobotTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone2|Milestone2|ALU_tst.vhd/uut - MainModule - Behavioral</ClosedNode>
+         <ClosedNode>/RobotTest - behavior E:|3rd year|semester 2|Archi|Labs|Milestone3|Milestone3|ALU_tst.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>RobotTest - behavior (E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/ALU_tst.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000132000000020000000000000000000000000200000064ffffffff000000810000000300000002000001320000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>RobotTest - behavior (E:/3rd year/semester 2/Archi/Labs/Milestone3/Milestone3/ALU_tst.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+</Project>
